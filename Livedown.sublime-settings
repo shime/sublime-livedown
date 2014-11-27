@@ -1,0 +1,10 @@
+{
+  /* Port on which the server will be started. */
+  "port": 1337,
+
+  /* Should the browser be opened automatically. */
+  "open": true,
+
+  /* Should Livedown be started at startup. */
+  "autostart": true
+}
