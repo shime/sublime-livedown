@@ -2,6 +2,8 @@
 
 A Sublime plugin for [Livedown](https://github.com/shime/livedown).
 
+![](https://raw.githubusercontent.com/shime/livedown-demos/master/sublime.gif)
+
 ## Installation
 
 * Make sure you have [node](http://nodejs.org/) with [npm](https://www.npmjs.org/) installed. 
