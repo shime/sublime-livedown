@@ -13,6 +13,12 @@ A Sublime plugin for [Livedown](https://github.com/shime/livedown).
 * Download [the zipped package](https://raw.githubusercontent.com/shime/sublime-livedown/master/build/Livedown.sublime-package) and place it in that directory.
 * Restart Sublime Text.
 
+You will now have `Livedown: Preview` command available from your command pallete (`Ctrl+Shift+P`).
+
+## Configuration
+
+There are several configuration options available. You can check them by opening your Sublime Editor and going to `Preferences > Package Settings > Livedown > Settings`.
+
 ## License
 
 MIT
