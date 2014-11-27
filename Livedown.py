@@ -1,3 +1,9 @@
+# Livedown
+#
+# Version: 1.0.0
+# Author: Hrvoje Simic <shime.ferovac@gmail.com>
+# License: MIT
+
 import sublime
 import sublime_plugin
 import os
