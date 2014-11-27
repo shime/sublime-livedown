@@ -1,3 +1,8 @@
+# this will poll to check if Sublime is opened
+# since it doesn't support editor exit events
+#
+# https://github.com/SublimeText/Issues/issues/582
+
 import os
 import time
 import sys
