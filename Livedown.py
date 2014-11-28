@@ -1,6 +1,6 @@
 # Livedown
 #
-# Version: 1.0.0
+# Version: 1.0.1
 # Author: Hrvoje Simic <shime.ferovac@gmail.com>
 # License: MIT
 
