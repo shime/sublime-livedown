@@ -5,6 +5,6 @@
   /* Should the browser be opened automatically. */
   "open": true,
 
-  /* Should Livedown be started at startup. */
-  "autostart": true
+  /* Should preview be shown automatically when opening markdown files. */
+  "autostart": false
 }
